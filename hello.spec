@@ -4,7 +4,7 @@ Release:    1.el6
 Summary:    a test package name rpm-test0
 
 License:    GPLv2+
-URL:        http://gitlab.qima-inc.com/sa/ossec-client.git
+URL:        http://github.com/cyrnotcry/cyr-test.git
 
 BuildArch: noarch
 
